@@ -1,1 +1,1 @@
-# get-ipaddres
+# get-ipaddress
